@@ -1,0 +1,26 @@
+footer{
+    background: linear-gradient(270deg, #4e2c1d, #6b3f29);
+    height: 200px;
+    div{
+        h4{
+            padding-top: 30px;
+            font-size: 32px;
+            font-family: Poppins-Social-Media;
+            margin-left: 10px;
+            color: #F7F7F7;
+        }
+        div{
+            margin-top: 20px;
+            margin-left: 20px;
+            div{
+                display: inline-block;
+                margin-inline: 5px;
+                span{
+                    color: #F7F7F7;
+                    cursor: pointer;
+                    font-size: xx-large;
+                }
+            }
+        }
+    }
+}
