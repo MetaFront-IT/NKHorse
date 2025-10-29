@@ -1,0 +1,13 @@
+header{
+    background-color: #612B1E;
+    width: 100vw;
+    div{
+        height: 100px;
+        display: flex;
+        h1{
+            color: #F7F7F7;
+            font-size: 40px;
+            margin: auto;
+        }
+    }
+}
